@@ -1,0 +1,7 @@
+A = 13x^3+3
+B = 13x^6
+calculate B 0 0 0
+C = 10
+C = A * C
+print C
+calculate C 0 0 0
